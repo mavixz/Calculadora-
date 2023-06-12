@@ -1,0 +1,16 @@
+body {
+background-color: rgb(195, 144, 242);
+}
+
+.Titulos {
+    text-align: center;
+}
+
+.Paragrafos {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.citação {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
